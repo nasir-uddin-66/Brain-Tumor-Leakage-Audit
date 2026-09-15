@@ -1,6 +1,5 @@
 # Brain Tumor MRI Dataset Leakage Audit
 
-Code and results for the paper "[paper title]" (submitted to Computers in Biology and Medicine, 2026).
 
 This repo audits internal train/test leakage and cross-dataset overlap across seven public brain tumor MRI datasets, and reports a controlled experiment comparing naive (image-level) vs. patient-level splitting on the Figshare dataset.
 
@@ -49,4 +48,4 @@ MIT — see LICENSE. This covers the code and the manifest/results in this repo.
 
 ## Contact
 
-Questions or issues: open a GitHub issue, or contact [your email].
+Questions or issues: 22103395@iubat.edu.
