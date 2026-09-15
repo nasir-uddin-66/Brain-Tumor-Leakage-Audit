@@ -1,0 +1,76 @@
+Pair_ID,source_dataset,target_dataset,source_file,target_file,rater1_label,rater2_label,confirmed_match
+0,Brain_Cancer_Mizanur,Masoud Nickparvar,brain_menin_0592.jpg,Tr-me_1038.jpg,same image,same image,True
+1,Masoud Nickparvar,figshare,Tr-pi_512.jpg,PID105638_slice1570.png,same image,same image,True
+2,Masoud Nickparvar,figshare,Tr-gl_553.jpg,PIDMR051586_slice2007.png,same image,same image,True
+3,BRISC,figshare,brisc2025_train_04146_pi_co_t1.jpg,PID110993_slice1110.png,same image,same image,True
+4,BDNeuro-HIra,figshare,pituitary_train_00083.jpg,PID112074_slice1250.png,same image,same image,True
+5,BRISC,figshare,brisc2025_test_00347_me_ax_t1.jpg,PID98241_slice0193.png,same image,same image,True
+6,BRISC,figshare,brisc2025_train_00490_gl_co_t1.jpg,PIDMR049453B_slice2299.png,same image,same image,True
+7,BRISC,figshare,brisc2025_train_01997_me_sa_t1.jpg,PID100360_slice0211.png,same image,same image,True
+8,BDNeuro-HIra,figshare,glioma_train_00021.jpg,PIDMR051644C_slice2072.png,same image,same image,True
+9,Br35H,Masoud Nickparvar,no578.jpg,Tr-no_1123.jpg,same image,same image,True
+10,Masoud Nickparvar,figshare,Te-gl_175.jpg,PID100820_slice0823.png,same image,same image,True
+11,Masoud Nickparvar,figshare,Tr-me_43.jpg,PID113435_slice0387.png,same image,same image,True
+12,Brain_Cancer_Mizanur,BRISC,brain_glioma_0545.jpg,brisc2025_train_00173_gl_ax_t1.jpg,same image,same image,True
+13,Br35H,Masoud Nickparvar,no1042.jpg,Te-no_197.jpg,same image,same image,True
+14,Shartaj,figshare,m (74).jpg,PID104281_slice0279.png,same image,same image,True
+15,Masoud Nickparvar,figshare,Tr-me_1134.jpg,PID102714_slice0484.png,same image,same image,True
+16,Brain_Cancer_Mizanur,Shartaj,brain_menin_0256.jpg,m3 (125).jpg,same image,same image,True
+17,BDNeuro-HIra,figshare,meningioma_test_00192.jpg,PID104281_slice0512.png,same image,same image,True
+18,BDNeuro-HIra,figshare,glioma_train_00829.jpg,PID107747_slice0853.png,same image,same image,True
+19,BDNeuro-HIra,figshare,pituitary_train_00545.jpg,PID110993_slice1108.png,same image,same image,True
+20,BDNeuro-HIra,Shartaj,glioma_train_00689.jpg,gg (245).jpg,same image,same image,True
+21,Shartaj,figshare,gg (62).jpg,PIDMR051644B_slice2961.png,same image,same image,True
+22,Br35H,Shartaj,no962.jpg,image (25).jpg,same image,same image,True
+23,BDNeuro-HIra,BRISC,meningioma_val_00170.jpg,brisc2025_train_01471_me_ax_t1.jpg,same image,same image,True
+24,BDNeuro-HIra,Shartaj,pituitary_test_00165.jpg,image(22).jpg,same image,same image,True
+25,BDNeuro-HIra,Shartaj,meningioma_test_00067.jpg,m1(78).jpg,same image,same image,True
+26,Masoud Nickparvar,figshare,Tr-gl_925.jpg,PIDMR051651_slice2946.png,same image,same image,True
+27,BDNeuro-HIra,Masoud Nickparvar,meningioma_train_00429.jpg,Tr-me_1104.jpg,same image,same image,True
+28,Masoud Nickparvar,figshare,Tr-gl_519.jpg,PIDMR048294B_slice2415.png,same image,same image,True
+29,Brain_Cancer_Mizanur,figshare,brain_tumor_1468.jpg,PID97416_slice1574.png,same image,same image,True
+30,BDNeuro-HIra,Shartaj,meningioma_train_00712.jpg,m (66).jpg,same image,same image,True
+31,Brain_Cancer_Mizanur,Shartaj,brain_tumor_0818.jpg,p (64).jpg,same image,same image,True
+32,BDNeuro-HIra,Shartaj,pituitary_train_00324.jpg,p (739).jpg,same image,same image,True
+33,Brain_Cancer_Mizanur,Masoud Nickparvar,brain_tumor_1577.jpg,Te-pi_345.jpg,same image,same image,True
+34,Masoud Nickparvar,figshare,Tr-gl_361.jpg,PIDMR049358_slice2264.png,same image,same image,True
+35,Masoud Nickparvar,figshare,Tr-gl_3.jpg,PIDMR047953C_slice2085.png,same image,same image,True
+36,Brain_Cancer_Mizanur,figshare,brain_glioma_1440.jpg,PIDMR039473B_slice2181.png,same image,same image,True
+37,BDNeuro-HIra,Shartaj,pituitary_train_00106.jpg,p (97).jpg,same image,same image,True
+38,Brain_Cancer_Mizanur,Masoud Nickparvar,brain_menin_1031.jpg,Tr-me_662.jpg,same image,same image,True
+39,Brain_Cancer_Mizanur,Shartaj,brain_tumor_1780.jpg,p (511).jpg,same image,same image,True
+40,BDNeuro-HIra,Masoud Nickparvar,meningioma_train_00311.jpg,Tr-me_321.jpg,same image,same image,True
+41,BRISC,figshare,brisc2025_train_01215_me_ax_t1.jpg,PID97943_slice0188.png,same image,same image,True
+42,Brain_Cancer_Mizanur,BRISC,brain_menin_1334.jpg,brisc2025_train_01420_me_ax_t1.jpg,same image,same image,True
+43,BRISC,figshare,brisc2025_train_04779_pi_sa_t1.jpg,PID107429_slice1188.png,same image,same image,True
+44,Shartaj,figshare,gg (547).jpg,PIDMR051644_slice2020.png,same image,same image,True
+45,BDNeuro-HIra,figshare,pituitary_test_00179.jpg,PID103257_slice1497.png,same image,same image,True
+46,Brain_Cancer_Mizanur,figshare,brain_tumor_0393.jpg,PID98992_slice1438.png,same image,same image,True
+47,Br35H,Shartaj,no1307.jpg,image(215).jpg,same image,same image,True
+48,Masoud Nickparvar,figshare,Tr-gl_963.jpg,PIDMR052550_slice2594.png,same image,same image,True
+49,BRISC,figshare,brisc2025_train_02050_me_sa_t1.jpg,PID98241_slice0683.png,same image,same image,True
+50,Shartaj,figshare,m3 (89).jpg,PID97737_slice0669.png,same image,same image,True
+51,Brain_Cancer_Mizanur,Masoud Nickparvar,brain_tumor_1948.jpg,Te-pi_64.jpg,same image,same image,True
+52,Masoud Nickparvar,figshare,Tr-me_90.jpg,PID114359_slice0170.png,same image,same image,True
+53,Masoud Nickparvar,figshare,Tr-pi_258.jpg,PID104558_slice1352.png,same image,same image,True
+54,Brain_Cancer_Mizanur,Masoud Nickparvar,brain_menin_1978.jpg,Tr-me_410.jpg,same image,same image,True
+55,BRISC,figshare,brisc2025_train_00709_gl_co_t1.jpg,PIDMR050687C_slice2636.png,same image,same image,True
+56,BRISC,figshare,brisc2025_train_02269_me_sa_t1.jpg,PID97943_slice0678.png,same image,same image,True
+57,BDNeuro-HIra,figshare,glioma_train_00397.jpg,PIDMR049019C_slice1985.png,same image,same image,True
+58,Br35H,BDNeuro-HIra,no205.jpg,no_tumor_train_00551.jpg,"same slice, different look","same slice, different look",True
+59,BDNeuro-HIra,Masoud Nickparvar,pituitary_train_00606.jpg,Tr-pi_1002.jpg,same image,same image,True
+60,Brain_Cancer_Mizanur,figshare,brain_tumor_1457.jpg,PID97416_slice1391.png,same image,same image,True
+61,BDNeuro-HIra,Masoud Nickparvar,meningioma_train_00482.jpg,Tr-me_1237.jpg,same image,same image,True
+62,BDNeuro-HIra,figshare,meningioma_val_00141.jpg,PID106914_slice0543.png,same image,same image,True
+63,Brain_Cancer_Mizanur,BRISC,brain_glioma_1668.jpg,brisc2025_train_00099_gl_ax_t1.jpg,same image,same image,True
+64,Shartaj,figshare,gg (464).jpg,PID96587_slice0905.png,same image,same image,True
+65,Masoud Nickparvar,figshare,Tr-me_999.jpg,PID97607_slice0665.png,same image,same image,True
+66,Brain_Cancer_Mizanur,Shartaj,brain_menin_1208.jpg,m1(88).jpg,same image,same image,True
+67,Brain_Cancer_Mizanur,BRISC,brain_glioma_0560.jpg,brisc2025_test_00015_gl_ax_t1.jpg,same image,same image,True
+68,Br35H,Shartaj,no611.jpg,image(242).jpg,"same slice, different look","same slice, different look",True
+69,Shartaj,figshare,p (517).jpg,PID110993_slice1109.png,same image,same image,True
+70,Brain_Cancer_Mizanur,Shartaj,brain_tumor_1064.jpg,p (732).jpg,same image,same image,True
+71,Brain_Cancer_Mizanur,Masoud Nickparvar,brain_menin_1589.jpg,Tr-me_35.jpg,same image,same image,True
+72,BDNeuro-HIra,BRISC,glioma_train_01317.jpg,brisc2025_train_00002_gl_ax_t1.jpg,same image,same image,True
+73,Brain_Cancer_Mizanur,BRISC,brain_menin_0220.jpg,brisc2025_train_01434_me_ax_t1.jpg,same image,same image,True
+74,Shartaj,figshare,gg (180).jpg,PIDMR029209G_slice2801.png,same image,same image,True

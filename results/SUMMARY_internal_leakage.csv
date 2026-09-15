@@ -1,0 +1,6 @@
+dataset,eval_split,A_true_duplicate,B_adjacent_slice,C_false_alarm,eval_size,A_true_duplicate_pct,B_adjacent_slice_pct,C_false_alarm_pct
+BDNeuro-HIra,test,0,73,245,889,0.0,8.21,27.56
+BDNeuro-HIra,val,1,82,243,892,0.11,9.19,27.24
+BRISC,test,94,154,337,1000,9.4,15.4,33.7
+Masoud Nickparvar,test,210,326,495,1600,13.12,20.38,30.94
+Shartaj,test,222,22,31,394,56.35,5.58,7.87

@@ -1,0 +1,3 @@
+source_dataset,target_dataset,source_file,source_path,target_file,target_path,cosine_sim
+Br35H,figshare,y1394.jpg,/kaggle/input/datasets/nasiruddin66/brain-tumor-datasets/Brain Tumor Datasets/Br35H/yes/y1394.jpg,PIDMR037458C_slice2193.png,/kaggle/input/datasets/nasiruddin66/brain-tumor-datasets/Brain Tumor Datasets/figshare/glioma/PIDMR037458C_slice2193.png,0.97999305
+Br35H,figshare,y1393.jpg,/kaggle/input/datasets/nasiruddin66/brain-tumor-datasets/Brain Tumor Datasets/Br35H/yes/y1393.jpg,PIDMR034997_slice2116.png,/kaggle/input/datasets/nasiruddin66/brain-tumor-datasets/Brain Tumor Datasets/figshare/glioma/PIDMR034997_slice2116.png,0.96590126
