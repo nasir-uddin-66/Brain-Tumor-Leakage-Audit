@@ -1,6 +1,5 @@
 # Data Leakage and Unverified Provenance in Public Brain Tumor MRI Datasets: A Systematic Audit
 
-Code and results for the paper "Data Leakage and Unverified Provenance in Public Brain Tumor MRI Datasets: A Systematic Audit" (submitted to Computers in Biology and Medicine, 2026).
 
 This repo audits internal train/test leakage and cross-dataset overlap across seven public brain tumor MRI datasets, and reports a controlled experiment comparing naive (image-level) vs. patient-level splitting on the Figshare dataset.
 
