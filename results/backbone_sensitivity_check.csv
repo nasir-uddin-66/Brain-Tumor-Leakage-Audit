@@ -1,0 +1,17 @@
+source,target,resnet50_pct,densenet121_pct,abs_diff
+Brain_Cancer_Mizanur,Masoud Nickparvar,30.22,95.9,65.68
+figshare,Brain_Cancer_Mizanur,15.57,76.21,60.64
+BRISC,Brain_Cancer_Mizanur,24.68,61.75,37.07
+Shartaj,Brain_Cancer_Mizanur,21.72,56.04,34.32
+BDNeuro-HIra,BRISC,60.06,75.64,15.58
+BDNeuro-HIra,Masoud Nickparvar,71.54,86.38,14.84
+figshare,BDNeuro-HIra,78.98,91.42,12.44
+Shartaj,BDNeuro-HIra,86.67,95.47,8.8
+Br35H,Shartaj,37.23,45.73,8.5
+Br35H,BDNeuro-HIra,52.27,58.1,5.83
+figshare,Shartaj,75.2,80.55,5.35
+Br35H,Masoud Nickparvar,57.23,60.23,3.0
+figshare,BRISC,93.8,95.07,1.27
+figshare,Masoud Nickparvar,99.09,99.15,0.06
+Br35H,Brain_Cancer_Mizanur,0.03,0.07,0.04
+Br35H,figshare,0.07,0.07,0.0

@@ -1,0 +1,269 @@
+dataset,eval_file,eval_split,train_file,cosine_sim
+Shartaj,image(21).jpg,test,p (130).jpg,1.0000004
+Shartaj,image(35).jpg,test,p (137).jpg,1.0000005
+Shartaj,image(6).jpg,test,p (124).jpg,1.0000002
+Shartaj,image(15).jpg,test,p (128).jpg,1.0000002
+Shartaj,image(13).jpg,test,p (127).jpg,1.0000004
+Shartaj,image(88).jpg,test,p (139).jpg,0.9956535
+Shartaj,image(5).jpg,test,p (124).jpg,1.0000002
+Shartaj,image(27).jpg,test,p (133).jpg,0.96160936
+Shartaj,image.jpg,test,p (570).jpg,1.0000002
+Shartaj,image(90).jpg,test,p (135).jpg,0.96091783
+Shartaj,image(73).jpg,test,p (138).jpg,1.0000004
+Shartaj,image(11).jpg,test,p (126).jpg,1.0000002
+Shartaj,image(85).jpg,test,p (570).jpg,1.0000002
+Shartaj,image(10).jpg,test,p (125).jpg,0.99682194
+Shartaj,image(28).jpg,test,p (133).jpg,0.96160936
+Shartaj,image(20).jpg,test,p (130).jpg,1.0000004
+Shartaj,image(22).jpg,test,p (131).jpg,1.0000002
+Shartaj,image(37).jpg,test,p (137).jpg,1.0000005
+Shartaj,image(18).jpg,test,p (129).jpg,0.95997345
+Shartaj,image(30).jpg,test,p (134).jpg,1.0000002
+Shartaj,image(34).jpg,test,p (136).jpg,0.9561778
+Shartaj,image(77).jpg,test,p (564).jpg,1.0000002
+Shartaj,image(78).jpg,test,p (564).jpg,1.0000002
+Shartaj,image(76).jpg,test,p (564).jpg,1.0000002
+Shartaj,image(19).jpg,test,p (130).jpg,1.0000004
+Shartaj,image(31).jpg,test,p (135).jpg,1.0000001
+Shartaj,image(87).jpg,test,p (139).jpg,0.9956535
+Shartaj,image(23).jpg,test,p (131).jpg,1.0000002
+Shartaj,image(36).jpg,test,p (137).jpg,1.0000005
+Shartaj,image(91).jpg,test,p (135).jpg,0.96091783
+Shartaj,image(86).jpg,test,p (570).jpg,1.0000002
+Shartaj,image(89).jpg,test,p (135).jpg,0.96091783
+Shartaj,image(84).jpg,test,image(28).jpg,1.0000004
+Shartaj,image(44).jpg,test,image(19).jpg,1.0000002
+Shartaj,image(29).jpg,test,image(5).jpg,1.0000001
+Shartaj,image(52).jpg,test,image(27).jpg,1.0000002
+Shartaj,image(33).jpg,test,image(56).jpg,1.0000002
+Shartaj,image(69).jpg,test,image(44).jpg,1.0000005
+Shartaj,image(21).jpg,test,image(44).jpg,1.0000005
+Shartaj,image(103).jpg,test,image(270).jpg,1.0000002
+Shartaj,image(74).jpg,test,image(49).jpg,1.0000002
+Shartaj,image(35).jpg,test,image(10).jpg,1.0000001
+Shartaj,image(6).jpg,test,image (47).jpg,1.0000004
+Shartaj,image(15).jpg,test,image(28).jpg,1.0000004
+Shartaj,image(81).jpg,test,image(56).jpg,1.0000002
+Shartaj,image(13).jpg,test,image (54).jpg,1.0000002
+Shartaj,image(25).jpg,test,image(1).jpg,1.0000002
+Shartaj,image(102).jpg,test,image(268).jpg,1.0000005
+Shartaj,image(79).jpg,test,image(12).jpg,1.0000005
+Shartaj,image(88).jpg,test,image(63).jpg,1.0000002
+Shartaj,image(5).jpg,test,image (46).jpg,1.0000004
+Shartaj,image(53).jpg,test,image(28).jpg,1.0000004
+Shartaj,image(94).jpg,test,image(69).jpg,1.0000002
+Shartaj,image(14).jpg,test,image (55).jpg,1.0000002
+Shartaj,image(32).jpg,test,image(39).jpg,1.0000001
+Shartaj,image(68).jpg,test,image(43).jpg,1.0000002
+Shartaj,image(27).jpg,test,image(3).jpg,1.0000004
+Shartaj,image.jpg,test,image (41).jpg,1.0000004
+Shartaj,image(90).jpg,test,image(65).jpg,1.0000001
+Shartaj,image(75).jpg,test,image(23).jpg,1.0000001
+Shartaj,image(9).jpg,test,image (50).jpg,1.0000002
+Shartaj,image(66).jpg,test,image(56).jpg,1.0000002
+Shartaj,image(73).jpg,test,image(1).jpg,1.0000002
+Shartaj,image(82).jpg,test,image(57).jpg,1.0000002
+Shartaj,image(11).jpg,test,image (52).jpg,1.0000002
+Shartaj,image(85).jpg,test,image (52).jpg,1.0000002
+Shartaj,image(104).jpg,test,image(272).jpg,1.0000002
+Shartaj,image(10).jpg,test,image(56).jpg,1.0000002
+Shartaj,image(28).jpg,test,image(4).jpg,1.0000001
+Shartaj,image(80).jpg,test,image (50).jpg,1.0000002
+Shartaj,image(20).jpg,test,image (61).jpg,1.0000002
+Shartaj,image(22).jpg,test,image(46).jpg,1.0000004
+Shartaj,image(100).jpg,test,image(266).jpg,1.0000002
+Shartaj,image(17).jpg,test,image (58).jpg,1.0000002
+Shartaj,image(37).jpg,test,image(12).jpg,1.0000005
+Shartaj,image(18).jpg,test,image (59).jpg,1.0000004
+Shartaj,image(39).jpg,test,image(14).jpg,1.0000001
+Shartaj,image(38).jpg,test,image(13).jpg,1.0000002
+Shartaj,image(16).jpg,test,image(35).jpg,1.0000002
+Shartaj,image(97).jpg,test,image(262).jpg,1.0000005
+Shartaj,image(30).jpg,test,image(6).jpg,1.0000002
+Shartaj,image(34).jpg,test,image(9).jpg,1.0000002
+Shartaj,image(12).jpg,test,image (53).jpg,1.0000002
+Shartaj,image(3).jpg,test,image (44).jpg,1.0000002
+Shartaj,image(59).jpg,test,image(34).jpg,1.0000004
+Shartaj,image(47).jpg,test,image(22).jpg,1.0000002
+Shartaj,image(77).jpg,test,image(52).jpg,1.0000002
+Shartaj,image(78).jpg,test,image(238).jpg,1.0000002
+Shartaj,image(63).jpg,test,image(38).jpg,1.0000002
+Shartaj,image(76).jpg,test,image(51).jpg,1.0000002
+Shartaj,image(61).jpg,test,image(46).jpg,1.0000004
+Shartaj,image(19).jpg,test,image (60).jpg,1.0000002
+Shartaj,image(45).jpg,test,image(35).jpg,1.0000002
+Shartaj,image(31).jpg,test,image(43).jpg,1.0000002
+Shartaj,image(101).jpg,test,image(326).jpg,1.0000001
+Shartaj,image(87).jpg,test,image(62).jpg,1.0000004
+Shartaj,image(60).jpg,test,image(35).jpg,1.0000002
+Shartaj,image(54).jpg,test,image(29).jpg,1.0000004
+Shartaj,image(57).jpg,test,image(32).jpg,1.0000004
+Shartaj,image(46).jpg,test,image(29).jpg,1.0000004
+Shartaj,image(92).jpg,test,image(67).jpg,1.0000002
+Shartaj,image(24).jpg,test,image.jpg,1.0000002
+Shartaj,image(70).jpg,test,image.jpg,1.0000002
+Shartaj,image(72).jpg,test,image(47).jpg,1.0000005
+Shartaj,image(55).jpg,test,image(35).jpg,1.0000002
+Shartaj,image(26).jpg,test,image(2).jpg,1.0000001
+Shartaj,image(23).jpg,test,image (64).jpg,1.0000002
+Shartaj,image(2).jpg,test,image (43).jpg,1.0
+Shartaj,image(96).jpg,test,image(71).jpg,1.0000004
+Shartaj,image(43).jpg,test,image(18).jpg,1.0000004
+Shartaj,image(56).jpg,test,image(31).jpg,1.0000001
+Shartaj,image(49).jpg,test,image(28).jpg,1.0000004
+Shartaj,image(62).jpg,test,image(37).jpg,1.0000002
+Shartaj,image(99).jpg,test,image(325).jpg,1.0000005
+Shartaj,image(67).jpg,test,image(28).jpg,1.0000004
+Shartaj,image(50).jpg,test,image(29).jpg,1.0000004
+Shartaj,image(83).jpg,test,image(58).jpg,1.0000002
+Shartaj,image(1).jpg,test,image (42).jpg,1.0000002
+Shartaj,image(48).jpg,test,image(23).jpg,1.0000001
+Shartaj,image(51).jpg,test,image(26).jpg,1.0000002
+Shartaj,image(36).jpg,test,image(11).jpg,1.0000001
+Shartaj,image(91).jpg,test,image(66).jpg,1.0000002
+Shartaj,image(65).jpg,test,image(40).jpg,1.0000004
+Shartaj,image(86).jpg,test,image(61).jpg,1.0000002
+Shartaj,image(41).jpg,test,image(27).jpg,1.0000002
+Shartaj,image(64).jpg,test,image(39).jpg,1.0000001
+Shartaj,image(7).jpg,test,image (48).jpg,1.0000004
+Shartaj,image(42).jpg,test,image(17).jpg,1.0
+Shartaj,image(98).jpg,test,image(264).jpg,1.0000004
+Shartaj,image(95).jpg,test,image(70).jpg,1.0000002
+Shartaj,image(93).jpg,test,image(68).jpg,1.0000005
+Shartaj,image(71).jpg,test,image(46).jpg,1.0000004
+Shartaj,image(8).jpg,test,image (49).jpg,1.0000002
+Shartaj,image(40).jpg,test,image(15).jpg,1.0000002
+Shartaj,image(89).jpg,test,image(64).jpg,1.0000005
+Shartaj,image(58).jpg,test,image(33).jpg,1.0
+Shartaj,image(4).jpg,test,image (45).jpg,1.0000005
+Shartaj,image(84).jpg,test,m1(194).jpg,1.0000004
+Shartaj,image(44).jpg,test,m1(154).jpg,1.0000004
+Shartaj,image(29).jpg,test,m1(139).jpg,1.0000001
+Shartaj,image(52).jpg,test,m1(162).jpg,1.0000002
+Shartaj,image(33).jpg,test,m1(143).jpg,1.0000002
+Shartaj,image(106).jpg,test,m3 (145).jpg,1.0000002
+Shartaj,image(69).jpg,test,m1(179).jpg,1.0000004
+Shartaj,image(21).jpg,test,m1(131).jpg,1.0000005
+Shartaj,image(74).jpg,test,m1(184).jpg,1.0000001
+Shartaj,image(35).jpg,test,m1(145).jpg,1.0000002
+Shartaj,image(6).jpg,test,m1(116).jpg,1.0000002
+Shartaj,image(15).jpg,test,m1(125).jpg,1.0000001
+Shartaj,image(81).jpg,test,m1(191).jpg,1.0000002
+Shartaj,image(13).jpg,test,m1(123).jpg,1.0000004
+Shartaj,image(25).jpg,test,m1(135).jpg,1.0000002
+Shartaj,image(102).jpg,test,m1(12).jpg,1.0000004
+Shartaj,image(79).jpg,test,m1(189).jpg,1.0000004
+Shartaj,image(88).jpg,test,m1(198).jpg,1.0000001
+Shartaj,image(53).jpg,test,m1(163).jpg,1.0000002
+Shartaj,image(94).jpg,test,m1(4).jpg,1.0000002
+Shartaj,image(14).jpg,test,m1(124).jpg,1.0000002
+Shartaj,image(32).jpg,test,m1(142).jpg,1.0000001
+Shartaj,image(68).jpg,test,m1(178).jpg,1.0000005
+Shartaj,image(27).jpg,test,m1(137).jpg,1.0000002
+Shartaj,image.jpg,test,m1(109).jpg,1.0000004
+Shartaj,image(90).jpg,test,m1(100).jpg,1.0000001
+Shartaj,image(75).jpg,test,m1(185).jpg,1.0000005
+Shartaj,image(118).jpg,test,m1(98).jpg,1.0000005
+Shartaj,image(9).jpg,test,m1(119).jpg,1.0000002
+Shartaj,image(66).jpg,test,m1(176).jpg,1.0000004
+Shartaj,image(73).jpg,test,m1(183).jpg,1.0000001
+Shartaj,image(82).jpg,test,m1(192).jpg,1.0000005
+Shartaj,image(11).jpg,test,m1(121).jpg,1.0000004
+Shartaj,image(85).jpg,test,m1(195).jpg,1.0000002
+Shartaj,image(10).jpg,test,m1(120).jpg,1.0000006
+Shartaj,image(28).jpg,test,m1(138).jpg,1.0000002
+Shartaj,image(80).jpg,test,m1(190).jpg,1.0000004
+Shartaj,image(20).jpg,test,m1(130).jpg,1.0000005
+Shartaj,image(109).jpg,test,m1(92).jpg,1.0000001
+Shartaj,image(22).jpg,test,m1(132).jpg,1.0000005
+Shartaj,image(113).jpg,test,m1(96).jpg,1.0000002
+Shartaj,image(100).jpg,test,m1(10).jpg,1.0000002
+Shartaj,image(17).jpg,test,m1(127).jpg,1.0000001
+Shartaj,image(37).jpg,test,m1(147).jpg,1.0000001
+Shartaj,image(18).jpg,test,m1(128).jpg,1.0000002
+Shartaj,image(39).jpg,test,m1(149).jpg,1.0000001
+Shartaj,image(38).jpg,test,m1(148).jpg,1.0000002
+Shartaj,image(16).jpg,test,m1(126).jpg,1.0000004
+Shartaj,image(97).jpg,test,m1(7).jpg,1.0000001
+Shartaj,image(30).jpg,test,m1(140).jpg,1.0000001
+Shartaj,image(34).jpg,test,m1(144).jpg,1.0000004
+Shartaj,image(112).jpg,test,m1(95).jpg,1.0000004
+Shartaj,image(12).jpg,test,m1(122).jpg,1.0000004
+Shartaj,image(3).jpg,test,m1(112).jpg,1.0000002
+Shartaj,image(120).jpg,test,m1(103).jpg,1.0000002
+Shartaj,image(59).jpg,test,m1(169).jpg,1.0000002
+Shartaj,image(47).jpg,test,m1(157).jpg,1.0000002
+Shartaj,image(77).jpg,test,m1(187).jpg,1.0000002
+Shartaj,image(126).jpg,test,m1(114).jpg,0.9991205
+Shartaj,image(78).jpg,test,m1(188).jpg,0.9984534
+Shartaj,image(63).jpg,test,m1(173).jpg,1.0000002
+Shartaj,image(76).jpg,test,m1(186).jpg,1.0000004
+Shartaj,image(125).jpg,test,m1(108).jpg,1.0000005
+Shartaj,image(61).jpg,test,m1(171).jpg,1.0000002
+Shartaj,image(19).jpg,test,m1(129).jpg,1.0000002
+Shartaj,image(45).jpg,test,m1(155).jpg,1.0000002
+Shartaj,image(31).jpg,test,m1(141).jpg,1.0000004
+Shartaj,image(87).jpg,test,m1(197).jpg,1.0000001
+Shartaj,image(60).jpg,test,m1(172).jpg,1.0000002
+Shartaj,image(57).jpg,test,m1(167).jpg,1.0000002
+Shartaj,image(121).jpg,test,m1(104).jpg,1.0000002
+Shartaj,image(46).jpg,test,m1(156).jpg,1.0000005
+Shartaj,image(92).jpg,test,m1(202).jpg,1.0000002
+Shartaj,image(24).jpg,test,m1(98).jpg,1.0000005
+Shartaj,image(70).jpg,test,m1(180).jpg,1.0000004
+Shartaj,image(72).jpg,test,m1(182).jpg,1.0000004
+Shartaj,image(55).jpg,test,m1(165).jpg,1.0000005
+Shartaj,image(26).jpg,test,m1(97).jpg,0.9816443
+Shartaj,image(23).jpg,test,m1(133).jpg,1.0000002
+Shartaj,image(2).jpg,test,m1(111).jpg,1.0000005
+Shartaj,image(96).jpg,test,m1(6).jpg,1.0000002
+Shartaj,image(43).jpg,test,m1(153).jpg,1.0000002
+Shartaj,image(56).jpg,test,m1(166).jpg,1.0000001
+Shartaj,image(49).jpg,test,m1(159).jpg,1.0000002
+Shartaj,image(62).jpg,test,m1(172).jpg,1.0000002
+Shartaj,image(99).jpg,test,m1(9).jpg,1.0
+Shartaj,image(67).jpg,test,m1(177).jpg,1.0000002
+Shartaj,image(50).jpg,test,m1(160).jpg,1.0000002
+Shartaj,image(83).jpg,test,m1(193).jpg,1.0000001
+Shartaj,image(48).jpg,test,m1(158).jpg,1.0000002
+Shartaj,image(51).jpg,test,m1(161).jpg,0.9750937
+Shartaj,image(36).jpg,test,m1(146).jpg,1.0000002
+Shartaj,image(91).jpg,test,m1(201).jpg,1.0000001
+Shartaj,image(65).jpg,test,m1(175).jpg,1.0000002
+Shartaj,image(127).jpg,test,m3 (146).jpg,0.99566007
+Shartaj,image(86).jpg,test,m1(196).jpg,1.0000001
+Shartaj,image(41).jpg,test,m1(151).jpg,1.0000004
+Shartaj,image(64).jpg,test,m1(174).jpg,1.0000004
+Shartaj,image(7).jpg,test,m1(117).jpg,1.0000004
+Shartaj,image(42).jpg,test,m1(152).jpg,1.0000001
+Shartaj,image(98).jpg,test,m1(8).jpg,1.0000005
+Shartaj,image(107).jpg,test,m1(90).jpg,1.0000001
+Shartaj,image(124).jpg,test,m1(107).jpg,1.0000004
+Shartaj,image(95).jpg,test,m1(5).jpg,1.0000004
+Shartaj,image(93).jpg,test,m1(3).jpg,1.0000004
+Shartaj,image(71).jpg,test,m1(181).jpg,1.0000004
+Shartaj,image(8).jpg,test,m1(118).jpg,1.0000002
+Shartaj,image(40).jpg,test,m1(150).jpg,1.0000001
+Shartaj,image(89).jpg,test,m1(199).jpg,1.0000002
+Shartaj,image(58).jpg,test,m1(168).jpg,1.0000002
+Shartaj,image(4).jpg,test,m1(113).jpg,1.0000005
+Shartaj,image(69).jpg,test,gg (774).jpg,1.0000005
+Shartaj,image(74).jpg,test,gg (7).jpg,1.0000004
+Shartaj,image(68).jpg,test,gg (772).jpg,1.0000004
+Shartaj,image(75).jpg,test,gg (9).jpg,1.0000001
+Shartaj,image(66).jpg,test,gg (589).jpg,1.0000002
+Shartaj,image(73).jpg,test,gg (805).jpg,1.0000002
+Shartaj,image(59).jpg,test,gg (444).jpg,1.0000002
+Shartaj,image(63).jpg,test,gg (707).jpg,1.0000002
+Shartaj,image(76).jpg,test,gg (12).jpg,1.0000004
+Shartaj,image(61).jpg,test,gg (651).jpg,1.0000001
+Shartaj,image(60).jpg,test,gg (447).jpg,1.0000002
+Shartaj,image(70).jpg,test,gg (775).jpg,1.0000001
+Shartaj,image(72).jpg,test,gg (797).jpg,1.0000002
+Shartaj,image(2).jpg,test,m1(123).jpg,0.98794836
+Shartaj,image(62).jpg,test,gg (652).jpg,1.0000002
+Shartaj,image(67).jpg,test,gg (624).jpg,1.0000002
+Shartaj,image(48).jpg,test,m1(168).jpg,0.9875432
+Shartaj,image(65).jpg,test,gg (369).jpg,1.0000002
+Shartaj,image(64).jpg,test,gg (369).jpg,1.0000002
+Shartaj,image(71).jpg,test,gg (775).jpg,1.0000001

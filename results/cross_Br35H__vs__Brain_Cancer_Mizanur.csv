@@ -1,0 +1,2 @@
+source_dataset,target_dataset,source_file,source_path,target_file,target_path,cosine_sim
+Br35H,Brain_Cancer_Mizanur,y1394.jpg,/kaggle/input/datasets/nasiruddin66/brain-tumor-datasets/Brain Tumor Datasets/Br35H/yes/y1394.jpg,brain_glioma_0202.jpg,/kaggle/input/datasets/nasiruddin66/brain-tumor-datasets/Brain Tumor Datasets/Brain_Cancer_Mizanur/brain_glioma/brain_glioma_0202.jpg,0.9501738

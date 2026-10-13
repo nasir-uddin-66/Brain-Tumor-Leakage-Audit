@@ -1,17 +1,17 @@
 source,target,source_size,confirmed_matches,pct
-BRISC,figshare,6000,4527,75.45
-Shartaj,figshare,3264,2348,71.94
+figshare,Masoud Nickparvar,3064,3036,99.09
+figshare,BRISC,3064,2874,93.8
+Shartaj,BDNeuro-HIra,3264,2829,86.67
+figshare,BDNeuro-HIra,3064,2420,78.98
+figshare,Shartaj,3064,2304,75.2
 BDNeuro-HIra,Masoud Nickparvar,5941,4250,71.54
-Masoud Nickparvar,figshare,7200,4940,68.61
-BDNeuro-HIra,Shartaj,5941,3653,61.49
 BDNeuro-HIra,BRISC,5941,3568,60.06
 Br35H,Masoud Nickparvar,3000,1717,57.23
-BDNeuro-HIra,figshare,5941,3326,55.98
 Br35H,BDNeuro-HIra,3000,1568,52.27
 Br35H,Shartaj,3000,1117,37.23
 Brain_Cancer_Mizanur,Masoud Nickparvar,6056,1830,30.22
-Brain_Cancer_Mizanur,BRISC,6056,1646,27.18
-Brain_Cancer_Mizanur,Shartaj,6056,1171,19.34
-Brain_Cancer_Mizanur,figshare,6056,676,11.16
+BRISC,Brain_Cancer_Mizanur,6000,1481,24.68
+Shartaj,Brain_Cancer_Mizanur,3264,709,21.72
+figshare,Brain_Cancer_Mizanur,3064,477,15.57
 Br35H,figshare,3000,2,0.07
-Brain_Cancer_Mizanur,Br35H,6056,1,0.02
+Br35H,Brain_Cancer_Mizanur,3000,1,0.03
